@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on autonomous driving.
+- 🌱 I’m currently learning semantic segmentation.
+- 📫 How to reach me: lingengjie@sjtu.edu.cn
